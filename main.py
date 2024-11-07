@@ -1,4 +1,4 @@
-## clustering planatary systems based on:
+## finding optimal features to cluster planets by using the following features: 
 ## Stellar Effective Temperature [K]
 ## Stellar Radius [Solar Radius]
 ## Stellar Mass [Solar mass]
@@ -8,6 +8,7 @@
 ## Eccentricity
 ## Number of Planets
 ## Discovery Year
+## raw data gathered by nasa plantary observatory database
 
 import pandas as pd
 import seaborn as sns
