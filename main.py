@@ -13,6 +13,7 @@
 import pandas as pd
 import seaborn as sns
 from sklearn.cluster import KMeans
+import matplotlib as plt
 
 
 ## loads the .csv file to a pandas dataframe
